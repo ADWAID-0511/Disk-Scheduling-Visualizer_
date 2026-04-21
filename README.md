@@ -60,7 +60,6 @@ To analyze and compare disk scheduling algorithms based on performance metrics l
 * HTML
 * CSS
 * JavaScript
-* Chart.js
 
 
 📌 Future Improvements
